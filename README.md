@@ -10,7 +10,7 @@ In this project, I discussed the data I obtained from the gym application I use 
 
 1) before.csv:
 - There are 4 columns in total in this csv file: Day+D6A1:D102, Time Spent, Check-In Time, Check-Out Time.
-3) after.csv:
+2) after.csv:
 - There are 7 columns in total in this csv file: Day+D6A1:D102, Time Spent, Check-In Time, Check-Out Time, Number of Project Deadline, Number of Homework Deadline, Number of Exam.
 
 ## Methodology
